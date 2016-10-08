@@ -1,5 +1,4 @@
 <?php
-header('./init.php');
  ?>
 <html>
 <link rel="stylesheet" href="./css/main.css" charset="utf-8">
