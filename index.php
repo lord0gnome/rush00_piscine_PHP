@@ -7,13 +7,12 @@
     <title>Le site du 42</title>
   </head>
   <body>
-  <div class="header"></div>
+  <div class="header">
+    <?php include("./header.php") ?>
+  </div>
   <div class="footer"></div>
     <div class="sidebar-left">
-
-      <div class="">
-
-      </div>
+    <?php include("./sidebar_left.php") ?>
     </div>
     <div class="centerbar">
     </div>
