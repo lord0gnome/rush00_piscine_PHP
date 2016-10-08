@@ -17,6 +17,17 @@ body {
   box-shadow: 0px 0px 25px #707070;
 }
 
+button {
+  float: right;
+  margin-top: 29px;
+  margin-right: 109px;
+  width: 12vw;
+}
+#connexion{ 
+  margin-left: 720px;
+  margin-top: 19px;
+}
+
 .sidebar-left {
   margin-top:120px;
   height:78vh;
@@ -27,6 +38,8 @@ body {
   border-radius: 30px;
   box-shadow: 0px 0px 25px #c0c0c0;
 }
+
+
 
 .centerbar {
   margin-top:120px;
